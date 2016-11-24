@@ -16,3 +16,4 @@ alias push='git push'
 alias gaa='git add .'
 alias gc="git commit -m\""
 alias v='cd /vagrant'
+alias si='cd ~/Sites'

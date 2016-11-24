@@ -1,0 +1,3 @@
+#!/bin/sh
+sh bash_config_installer.sh
+exit 0
