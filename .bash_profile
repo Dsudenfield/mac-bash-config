@@ -3,7 +3,6 @@ export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 alias a='cat ~/.bash_profile'
 alias ls='ls -la'
-alias sb='cd /Users/brendan/sandbox'
 alias bp='vim ~/.bash_profile'
 if [ -f ~/.bashrc ]; then
     alias bp-reload='source ~/.bashrc'
