@@ -1,5 +1,5 @@
 PS1="\[\`if [[ \$? = "0" ]]; then echo '\e[32m\h\e[0m'; else echo '\e[31m\h\e[0m' ; fi\`:\$PWD\n\$ "
-export CLICOLOR=1
+#export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
 alias a='cat ~/.bash_profile'
 alias ls='ls -la'
